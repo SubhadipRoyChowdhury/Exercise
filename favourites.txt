@@ -1,3 +1,10 @@
+Foods:
 chicken 
 mixed fried rice
 mixed chowmein
+
+movies:
+your name
+silent voice
+stranger things
+
